@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KCthecoder
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Azure AD
+- 🌱 I’m currently learning IT Automation with Python
 
 <!---
 KCthecoder/KCthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
